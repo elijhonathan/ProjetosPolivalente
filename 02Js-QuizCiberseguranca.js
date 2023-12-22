@@ -68,6 +68,3 @@ r1.close();
 }
 
 iniciarQuiz();
-
-
-
